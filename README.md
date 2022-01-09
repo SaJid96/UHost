@@ -1,2 +1,2 @@
 # UHost
-web hosting company built using flex box grid and saas
+web hosting company website built using flex box grid and saas
